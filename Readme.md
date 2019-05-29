@@ -1,0 +1,1 @@
+Run tsc to create the .js file(s) in the out folder, as per tsconfig.json file
